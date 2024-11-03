@@ -10,24 +10,25 @@ document, but changing it is not allowed.
 
 Preamble
 
-Robotics Team members strives to construct technical pillars and laid foundations for the succession
-of this organization. One of the strategy is to adopt open-source materials to lower production cost.
-Another strategy is to restrict inheritance of resources to successors.
+  Robotics Team members strives to construct technical pillars and laid foundations for the
+succession of this organization. One of the strategy is to adopt open-source materials to lower
+production cost. Another strategy is to restrict inheritance of resources to successors.
 
-This license is made available to all CSWCSS Robotics Team members only, because all materials
+  This license is made available to all CSWCSS Robotics Team members only, because all materials
 released under this license are restricted to internal exchange only, which would be detailed in
 section 1.
 
-Materials are released under this license for two goals: (1) To maintain Robotics Team technological
-superiority and hence sustainability of robotics events in CSWCSS; (2) To protect Robotics Team
-members from facing legal charges against them for redistributing any materials to the external
-public without the awareness to comply with the original respective licenses of those materials.
+  Materials are released under this license for two goals: (1) To maintain Robotics Team
+technological superiority and hence sustainability of robotics events in CSWCSS; (2) To protect
+Robotics Team members from facing legal charges against them for redistributing any materials to the
+external public without the awareness to comply with the original respective licenses of those
+materials.
 
-Robotics Team is facing a declining amount of available resources, since the nature of robotics
+  Robotics Team is facing a declining amount of available resources, since the nature of robotics
 education does not easily visualize and quantize its outcomes. Robotics Team superiority is required
 to make robotics events more sustainable in this school.
 
-Robotics Team uses a wide range of open-source materials. Most of them give a rather permissive
+  Robotics Team uses a wide range of open-source materials. Most of them give a rather permissive
 license such as MIT or BSD or unlicensed, which restricts basically nothing except retaining the
 license notices and crediting appropriate owners and their respective copyrights. However, there are
 very strict copyleft licenses such as GPL that prohibits redistribution of embedded or modified
@@ -37,13 +38,42 @@ allowed within the legally appropriate usage of the material. To protect Robotic
 legal charges due to accidental misuse of GPL or LGPL or other copyleft licensed materials, Robotics
 Team members are mostly denied to publish materials under this license.
 
-It is very common for people to modify open-source materials but not disclosing their modified
+  It is very common for people to modify open-source materials but not disclosing their modified
 versions to the public, given that such materials are not distributed in a closed-source manner.
 A common example is that students copy and modify open-source code and use such code in their robots
 to join robotics commpetitions. These students do not distribute their modified version in a
 closed-source manner, so they need not disclose their modified versions to the public. This is
 allowed by open-source licenses including MIT, BSD, GPL and LGPL. This license requires Robotics Team
 members to exercise this confidential right for most of the time.
+
+  If you, as a Robotics Team member, do not wish to be bounded by the terms and conditions of this
+license, may develop your own version of the hardware and software involved, so you have
+copyright over your own creations, hence you could license your creations by your own choice. By
+doing so, you also get the most out of Robotics Team, because you need to take in all the technical
+knowledge to rebuild layers of abstractions and learn the methods to efficiently obtain useful
+information from documentations and forum discussions and other kinds of human interaction.
+  This is exactly what the 9th Term did in 2021 - 2023, to completely rebuild hardware and software
+foundations and abstraction layers to cover the huge technical gap left by the discontinued support
+of both hardware and software from a China STEM kit providing company.
+  After years of development, we found out that Robotics Team don't have the time for each cohort to
+rebuild everything from scratch, and this is due to some very complex reasons involving Hong Kong
+education system, Robotics Team recruitment process, etc. not to be discussed here in detail. The
+foundations of a robotics system need not be greatly changed for each cohort, so abstractions and
+modularizations are implemented to reduce the workload for members on low-level development. Members
+could instead focus on the high-level logic implementations, so they could improve the algorithms
+hence performance efficiently without needing to take care of low-level debugging.
+  The 9th Term faced a lot of difficulties in building and securing this foundation. Low-level bugs
+always need to be resolved before proceeding on high-level development, which costed most of our
+development time, making it barely impossible to tune a robot for better performance in a
+competition. We clearly understand that this is not an ideal development environment. The stressful
+atmosphere and a deadline countdown is highly discouraging. Therefore, we decided to free our
+successors from this pain by providing one more option for them to choose. They either use our
+prebuilt modules, or they build their own new ones.
+  Yet, we need to strike a balance between providing abstractions and encouraging members to learn.
+Robotics R&D is all about scheduling, division of labour, modularizations, team cooperations,
+adapting to new technologies. All of this must be challenging to a secondary school student, so feel
+free to put some pressure on yourself. Task management, stress management, team leadership, there is
+a lot for you to learn as a member, not just some bare metal technical details.
 
                                     TERMS AND CONDITIONS
 
