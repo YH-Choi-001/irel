@@ -50,7 +50,7 @@ members to exercise this confidential right for most of the time.
 license, may develop your own version of the hardware and software involved, so you have
 copyright over your own creations, hence you could license your creations by your own choice. By
 doing so, you also get the most out of Robotics Team, because you need to take in all the technical
-knowledge to rebuild layers of abstractions and learn the methods to efficiently obtain useful
+knowledge to rebuild layers of abstractions and learn the techniques to efficiently obtain useful
 information from documentations and forum discussions and other kinds of human interaction.
   This is exactly what the 9th Term did in 2021 - 2023, to completely rebuild hardware and software
 foundations and abstraction layers to cover the huge technical gap left by the discontinued support
@@ -64,11 +64,11 @@ could instead focus on the high-level logic implementations, so they could impro
 hence performance efficiently without needing to take care of low-level debugging.
   The 9th Term faced a lot of difficulties in building and securing this foundation. Low-level bugs
 always need to be resolved before proceeding on high-level development, which costed most of our
-development time, making it barely impossible to tune a robot for better performance in a
-competition. We clearly understand that this is not an ideal development environment. The stressful
-atmosphere and a deadline countdown is highly discouraging. Therefore, we decided to free our
-successors from this pain by providing one more option for them to choose. They either use our
-prebuilt modules, or they build their own new ones.
+development time, making it barely possible to tune a robot for better performance in a competition.
+We clearly understand that this is not an ideal development environment. The stressful atmosphere and
+a deadline countdown is highly discouraging. Therefore, we decided to free our successors from this
+pain by providing one more option for them to choose. They either use our prebuilt modules, or they
+build their own new ones.
   Yet, we need to strike a balance between providing abstractions and encouraging members to learn.
 Robotics R&D is all about scheduling, division of labour, modularizations, team cooperations,
 adapting to new technologies. All of this must be challenging to a secondary school student, so feel
