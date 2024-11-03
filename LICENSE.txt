@@ -130,7 +130,7 @@ concerned, including the external public. This license grants permission to each
 member to do so, under a specific condition: At least 2 other active Robotics Team members agree such
 act. Under such circumstances, section 1c, 1d and 2a are overriden by the exception stated in
 subsection 2ai. However, Robotics Team members should use his (or her) best efforts to prevent such
-materials falling into the hands or irrelevant persons.
+materials falling into the hands of irrelevant persons.
 
 3. Disclosure of Materials Under This License
 
